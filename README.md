@@ -43,8 +43,7 @@ This manual is intended to:
 
 ## 📄 Access the Manual
 
-📖 [View the Complete Manual](#)  
-*(Replace with actual link once hosted)*
+📖 [View the Complete Manual](https://raheememad.github.io/Sales-Manual/)  
 
 ---
 
